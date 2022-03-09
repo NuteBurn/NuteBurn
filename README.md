@@ -2,7 +2,7 @@
 - 👀 I’m interested in DIY technology
 - 🌱 I’m currently learning jekyll
 - 💞️ I’m looking to collaborate on your site
-- 📫 How to reach me: <a href="mailto:nute@nuteburn.com">nute@nuteburn.come</a>
+- 📫 How to reach me: <a href="mailto:nute@nuteburn.com">nute@nuteburn.com</a>
 
 <!---
 NuteBurn/NuteBurn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
